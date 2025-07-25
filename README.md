@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sackcini
-- 👀 I’m interested in data science and UI&UX design
+- 👀 I’m interested in python and HTML & CSS
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on start up companies
 - 📫 reach me through linkedin ID:Sackcini M
